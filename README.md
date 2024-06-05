@@ -18,6 +18,7 @@ git add .
 git diff
 git commit
 git log
+git pull
 ```
 
 q
