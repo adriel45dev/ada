@@ -17,5 +17,9 @@ git status
 git add .
 git diff
 git commit
-
+git log
 ```
+
+q
+
+retornar
