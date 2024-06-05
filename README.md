@@ -27,3 +27,11 @@ q
 retornar
 
 ## GIT BRANCH
+
+```
+git branch
+git log --oneline --decorate
+git checkout testing
+```
+
+-- new
