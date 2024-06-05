@@ -19,6 +19,7 @@ git diff
 git commit
 git log
 git pull
+git fetch
 ```
 
 q
